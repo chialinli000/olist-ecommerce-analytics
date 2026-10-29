@@ -1,0 +1,6 @@
+customer_segment,customer_count,total_payment_value,avg_customer_value
+"Other Customers",73087,11722536.28,160.39
+"New / Occasional",17469,2835568.28,162.32
+"At Risk",1587,473405.97,298.3
+"Loyal Customers",846,229145.42,270.86
+Champions,368,161805.82,439.69
